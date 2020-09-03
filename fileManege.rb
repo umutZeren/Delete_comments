@@ -1,6 +1,4 @@
-#puts file.readline()
-#file.read().include? "bla bla" puts cursor to the end
-#w+ overrites
+
 
 to_write=Array.new
 File.open("C:\\Users\\Casper\\Desktop\\yeni klasör\\modules_try.rb","r") do |file|
